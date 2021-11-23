@@ -1,0 +1,72 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "todo-tree.highlights.defaultHighlight": {
+    "icon": "alert",
+    "type": "text",
+    "foreground": "#007CFF",
+    "background": "black",
+    "opacity": 50,
+    "iconColour": "orangered"
+  },
+  "todo-tree.tree.hideTreeWhenEmpty": false,
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "type": "text",
+      "background": "black",
+      "foreground": "#FF4500"
+    },
+    "FIXME": {
+      "icon": "alert",
+      "type": "text",
+      "foreground": "#ffc500",
+      "background": "black",
+      "opacity": 10
+    },
+    "@ts-ignore": {
+      "type": "text",
+      "background": "black",
+      "foreground": "#0DE7A8"
+    }
+  },
+  "todo-tree.general.tags": [
+    "TODO",
+    "FIXME",
+    "@ts-ignore"
+  ],
+  "eslint.enable": true,
+"cucumberautocomplete.formatConfOverride": {
+  "Scénario": 1,
+  "Plan du Scénario": 1,
+  "Étant donné": 1,
+  "Étant donné que": 1,
+  "Quand": 1,
+  "Alors": 1,
+  "Et": 1,
+  "Mais": 1,
+  "Exemples": 1,
+  "\\*": 1,
+  "\\|": 1,
+  "\\#": 1,
+  "\\@": 1,
+}}
